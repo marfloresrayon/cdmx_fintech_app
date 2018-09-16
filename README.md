@@ -44,6 +44,14 @@ objetivos del cliente.
   no es posible recuperarse de los errores cometidos, no se indica la causa del error ni existe una solución sugerida. 
 * Ayuda y documentación. No existe documentación adicional sobre la aplicación. 
 
+## Herramientas metodológicas
+
+A continuación las técnicas elegidas para comprender las necesidades del negocio y los usuarios.
+
+|Entrevista con cliente. Product Manager||25|
+|--||--|
+|Benchmark||20|
+
 
 ## Recomendaciones de próximos pasos para el banco con respecto al app 
 ### Qué modificaciones se deberían hacer
