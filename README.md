@@ -44,14 +44,19 @@ objetivos del cliente.
   no es posible recuperarse de los errores cometidos, no se indica la causa del error ni existe una solución sugerida. 
 * Ayuda y documentación. No existe documentación adicional sobre la aplicación. 
 
-## Herramientas metodológicas
+A continuación las herramientas metodológicas usadas para comprender las necesidades del negocio y los usuarios. 
 
-A continuación las técnicas elegidas para comprender las necesidades del negocio y los usuarios.
-
-|Entrevista con cliente. Product Manager||25|
-|--||--|
-|Benchmark||20|
-
+| Herramientas metodológicas | Valor |
+|--|--|
+|Entendimiento del problema, la industria y el contexto | 15 |
+|Entrevista con el cliente  | 25 |
+|Entrevistas con usuarios  | 60 |
+|Flujo/Árbol de contenidos | 20 |
+|Card Sorting | 15 |
+|Testeos de prototipos | 60 |
+|Sketching y Wireframing | 30 |
+|Prototipado de alta fidelidad | 80 |
+|Pruebas de usabilidad sobre prototipado | 60 |
 
 ## Recomendaciones de próximos pasos para el banco con respecto al app 
 ### Qué modificaciones se deberían hacer
