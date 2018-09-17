@@ -60,7 +60,7 @@ A continuación las herramientas metodológicas usadas para comprender las neces
 |Sketching y Wireframing (30) | Elaboración de prototipos de baja y mediana fidelidad. |
 |Prototipado de alta fidelidad (80)| Elaboración de prototipo de alta fidelidad con el diseño propuesto. |
 |Prototipado clickable (85)| Elaboración de prototipo de acuerdo al flujo de usuario propuesto. |
-|Pruebas de usabilidad sobre prototipado (60)| Probar los gain y pain points del diseño propuesto para una siguiente iteración. |
+|Pruebas de usabilidad sobre prototipado (60)| Testeo del rediseño de la aplicación, identificación de pain y gain points del diseño propuesto para una siguiente iteración. |
 |Total| 520 |
 
 ## Recomendaciones de próximos pasos para el banco con respecto al app 
