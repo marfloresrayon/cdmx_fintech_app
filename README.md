@@ -46,6 +46,7 @@ objetivos del cliente.
 
 A continuación las herramientas metodológicas usadas para comprender las necesidades del negocio y los usuarios. 
 
+
 | Herramientas metodológicas (valor) | Finalidad |
 |--|--|
 |Entendimiento del problema, la industria y el contexto (15)| Entender el contexto y necesidades del negocio, así como los objetivos del producto.|
@@ -60,6 +61,7 @@ A continuación las herramientas metodológicas usadas para comprender las neces
 |Prototipado de alta fidelidad (80)| Elaboración de prototipo de alta fidelidad con el diseño propuesto. |
 |Prototipado clickable (85)| Elaboración de prototipo de acuerdo al flujo de usuario propuesto. |
 |Pruebas de usabilidad sobre prototipado (60)| Probar los gain y pain points del diseño propuesto para una siguiente iteración. |
+|Total| 520 |
 
 ## Recomendaciones de próximos pasos para el banco con respecto al app 
 ### Qué modificaciones se deberían hacer
