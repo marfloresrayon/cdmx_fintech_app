@@ -46,9 +46,10 @@ objetivos del cliente.
 
 A continuación las herramientas metodológicas usadas para comprender las necesidades del negocio y los usuarios. 
 
-| Herramientas metodológicas | Valor |
+| Herramientas metodológicas | Descripción | Valor |
 |--|--|
-|Entendimiento del problema, la industria y el contexto | 15 |
+|Entendimiento del problema, la industria y el contexto |
+Comprender el contexto del banco, sus necesidades y los objetivos del producto | 15 |
 |Entrevista con el cliente  | 25 |
 |Entrevistas con usuarios  | 60 |
 |Flujo/Árbol de contenidos | 20 |
