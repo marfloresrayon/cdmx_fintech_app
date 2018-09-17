@@ -46,17 +46,20 @@ objetivos del cliente.
 
 A continuación las herramientas metodológicas usadas para comprender las necesidades del negocio y los usuarios. 
 
-| Herramientas metodológicas | Valor |
+| Herramientas metodológicas (valor) | Finalidad |
 |--|--|
-|Entendimiento del problema, la industria y el contexto | 15 |
-|Entrevista con el cliente  | 25 |
-|Entrevistas con usuarios  | 60 |
-|Flujo/Árbol de contenidos | 20 |
-|Card Sorting | 15 |
-|Testeos de prototipos | 60 |
-|Sketching y Wireframing | 30 |
-|Prototipado de alta fidelidad | 80 |
-|Pruebas de usabilidad sobre prototipado | 60 |
+|Entendimiento del problema, la industria y el contexto (15)| Entender el contexto y necesidades del negocio, así como los objetivos del producto.|
+|Entrevista con el cliente (25)  | Establecimiento de metas y objetivos. Feedback sobre el proceso de diseño. |
+|Benchmark (20)  | Revisión de features y valor agregado de la competencia. |
+|Entrevistas con usuarios (60)  | Entrevistas con usuarios para obtener insights accionables, profundizar en sus motivaciones, necesidades y preocupaciones. |
+|Flujo/Árbol de contenidos (20) | Flujo de navegación de la aplicación, conocimiento de sus contenidos. |
+|Card Sorting (15) | Entendimiento del modelo mental de los usuarios para plantear una arquitectura de la información acorde a su razonamiento. |
+|Testeos de prototipos (60)| Sesiones de testeo con la solución propuesta con 5 usuarios. |
+|A/B Testing (50) | Testear dos versiones de un elemento para medir cuál funciona mejor con 5 usuarios. |
+|Sketching y Wireframing (30) | Elaboración de prototipos de baja y mediana fidelidad. |
+|Prototipado de alta fidelidad (80)| Elaboración de prototipo de alta fidelidad con el diseño propuesto. |
+|Prototipado clickable (85)| Elaboración de prototipo de acuerdo al flujo de usuario propuesto. |
+|Pruebas de usabilidad sobre prototipado (60)| Probar los gain y pain points del diseño propuesto para una siguiente iteración. |
 
 ## Recomendaciones de próximos pasos para el banco con respecto al app 
 ### Qué modificaciones se deberían hacer
