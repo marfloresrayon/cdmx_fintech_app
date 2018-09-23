@@ -17,6 +17,19 @@ Para llevar a cabo este proceso es primordial tener el feedback de los usuarios,
 y mejoras priorizando aquellos que agregan mayor valor a la experiencia de los usuarios y empatan con los 
 objetivos del cliente. 
 
+Después del análisis heurístico realizado a la landing page y al flujo actual de la aplicación desarrollada en 
+iOS, así como el análisis llevado a cabo sobre la data proporcionada, se identifican los **siguientes problemas**: 
+
+![Funnel de conversión](img/funnel.png)
+
+* Durante los 6 meses que la aplicación ha estado disponible en el mercado el porcentaje de conversión entre la 
+fase de adquisición (por medio de Facebook Ads) y la fase de activación (usuarios que han descargado la app y se 
+han registrado para hacer uso) se traduce en un 0.0040903%. Lo cual sugiere lo **poco recomendable** que sería 
+**duplicar el presupuesto destinado a generar anuncios de Facebook**. En cambio se sugiere segmentar los anuncios 
+de acuerdo al público que se intenta adquirir, especificando en los anuncios el sistema operativo con el cual opera
+la aplicación y las funcionalidades que ésta contiene. 
+* 
+
 ## Análisis heurístico de usabilidad 
 
 * Visibilidad del estado del sistema. Al descargar la aplicación dentro de la landing page no queda claro 
