@@ -40,10 +40,10 @@ El anuncio de Facebook lleva al usuario a la Landing Page de la aplicación, mis
 descarga." Mismo que no se hace llegar al usuario, en cambio le redirecciona a una página de agradecimiento y
 posteriormente a la App Store donde el usuario podrá descargar la aplicación. 
 
-Hasta este punto no existe un onboarding claro para el usuario, no se le informa en qué consiste la aplicación
-y qué valor podría aportarle su uso. Sobre el branding, no se encuentran elementos diferenciadores de la 
+Hasta este punto **no existe un onboarding claro para el usuario, no se le informa en qué consiste la aplicación
+y qué valor podría aportarle su uso.** Sobre el **branding, no se encuentran elementos diferenciadores de la 
 identidad del banco al que pertenece la aplicación o de una experiencia distintiva que se sostenga a lo 
-largo de la aplicación. 
+largo de la aplicación.** 
 
 Verbalizaciones obtenidas durante el testeo con usuarios:
 - *"Me gusta que la landing sea muy sencilla, que sea muy fácil de detectar, los colores son muy de banco, 
@@ -57,8 +57,8 @@ Verbalizaciones obtenidas durante el testeo con usuarios:
 ### App Store  
 Dentro de la App Store nos encontramos con un eslogan distinto al usado dentro de la Landing Page, los colores y 
 el logo de la aplicación son consistentes. Aunque es la séptima aplicación financiera, su rating es de 2.64 
-estrellas lo cual denota una falta de satisfacción con el producto, ya que este rating se basa en la calificación 
-generada por cada usuario, por lo que me parece prioritario mejorar este rating y cambiar la edad de uso sugerida
+estrellas lo cual denota una **falta de satisfacción con el producto, ya que este rating se basa en la calificación 
+generada por cada usuario, por lo que me parece prioritario mejorar este rating** y cambiar la edad de uso sugerida
 a 18+, ya que por el momento se encuentra en personas mayores de 9 años. Hasta este punto no ofrece más información
 de la ya mostrada en la landing page, el onboarding no queda claro para los usuarios.
 
@@ -67,14 +67,14 @@ Verbalizaciones obtenidas durante el testeo con usuarios:
 - "¿Si no tengo cuenta no importa? ¿Es exclusiva para Iphone?"*
 
 ### Sign Up
-Dentro del sign up, de acuerdo al testeo realizado con usuarios, es necesario mejorar la visibilidad del estado 
-del proceso, prevenir posibles errores, reconocer y recuperarse de errores, y ofrecer ayuda al usuario 
+Dentro del sign up, de acuerdo al testeo realizado con usuarios, es necesario **mejorar la visibilidad del estado 
+del proceso, prevenir posibles errores, reconocer y recuperarse de errores, y ofrecer ayuda al usuario** 
 sobre lo que debe hacer en cada etapa del sign up mejorando los formularios y las instrucciones de llenado, 
 así como la acción necesitada en uno de los pasos. 
 
 Verbalizaciones obtenidas durante el testeo con usuarios:
 - *"¿No hay un paso antes de hacer un registro? ¿O cómo sabe tu aplicación que soy un usuario del banco? 
-   Te piden cierto registro en el banco para solo llegar e ingresar ciertos datos."
+     Te piden cierto registro en el banco para solo llegar e ingresar ciertos datos."
 - "Agregar foto, está bien pero nunca lo hago, no le veo sentido para qué el banco lo tiene, suficientes 
    datos personales tienen, no veo qué uso puedan darle."
 - "Creo que podría ser más inseguro que la felicidad que tendría el poner mi foto allí."
@@ -82,7 +82,7 @@ Verbalizaciones obtenidas durante el testeo con usuarios:
 - "¿Número de cuenta es mi CLABE o qué? ¿Cuál cuenta, la de la aplicación o de mi cuenta bancaria? 
    ¿Cómo sabe qué banco es?" 
 - "¿Me llegó un mail de confirmación? Me gustaría, es mi cuenta bancaria, no tengo problema en meter 
-   más mis datos, pero es la primera vez que uso algo así."
+    más mis datos, pero es la primera vez que uso algo así."
 - "A lo mejor otra tipografía, se pierde un poco, yo soy muy ciega. No quiero poner mi foto, hacerlo más tarde.   
    Eso de la huella me gusta, yo que soy muy paranoica, el que puedas poner tu huella para acceder a tu cuenta 
    me da más seguridad y confianza. Yo sé que no todos los teléfonos lo tienen, pero que tengan para identificarla 
@@ -102,20 +102,20 @@ Verbalizaciones obtenidas durante el testeo con usuarios:
 Muestra un mensaje de bienvenida con el nombre del usuario, una imagen de la tarjeta del mismo ocupa 3/4 
 de la pantalla, una campana en la esquina superior derecha anuncia las notificaciones de la app, el saldo 
 disponible se encuentra abajo de la tarjeta sin especificar la moneda o un desglose del mismo. 
-En la parte inferior se muestra un botón con tres puntos que da acceso al menú con los distintos apartados
-de la aplicación, mismos que no conoce el usuario, en la navbar se encuentra un menú hamburguesa que 
+En la parte inferior se muestra un **botón con tres puntos que da acceso al menú con los distintos apartados
+de la aplicación, mismos que no conoce el usuario**, en la navbar se encuentra un menú hamburguesa que 
 incluye la foto del usuario, si la ha agregado, además de su nombre, la fecha y hora de su última conexión. 
-Hasta este punto no se ha ofrecido un onboarding para el usuario.
+**Hasta este punto no se ha ofrecido un onboarding para el usuario.**
 
 Verbalizaciones obtenidas durante el testeo con usuarios:
 - *"Estaría bien un ícono donde pudieras regresar a la pantalla principal, porque con el atrás llega 
-   un momento en el que te sales de la aplicación."
+    un momento en el que te sales de la aplicación."
 - "Los tres puntos no me dicen realmente qué son, no me agradó. En vez de ser unos puntos, algo que de
    a entender que te lleva o te regresa a tu menú."
 - "¿En el menú no tienes nada verdad? El menú está vacío, sólo puedo ver mi cuenta. Pensé encontrar editar 
-   mi perfil, notificaciones, ayuda en línea, teléfono de la aplicación por si hay algo que no esté viendo 
-   aquí y me pueda comunicar con mi banco, no tenga que ir a buscar en internet el número de mi banco, o 
-   algo así como preguntas frecuentes."
+    mi perfil, notificaciones, ayuda en línea, teléfono de la aplicación por si hay algo que no esté viendo 
+    aquí y me pueda comunicar con mi banco, no tenga que ir a buscar en internet el número de mi banco, o 
+    algo así como preguntas frecuentes."
 - "Pensé que el botón (de tres puntos) era para arrastrarlo."
 - "Monto total en la parte de inicio, a lo mejor cuenta con la parte de ahorro, que aparte diga la 
    cantidad real para gastar y la real total que se tiene."
@@ -123,10 +123,10 @@ Verbalizaciones obtenidas durante el testeo con usuarios:
    ponga la tarjeta, me hace claro que esta es mi tarjeta."*
    
 ### Movimientos
-Se muestra el saldo disponible para el usuario sin especificar la moneda, existe un buscador del cual no 
-puede hacerse uso dentro del prototipo, no quedan claros cuáles son los parámetros para realizar una búsqueda.
+Se muestra el saldo disponible para el usuario sin especificar la moneda, **existe un buscador del cual no 
+puede hacerse uso dentro del prototipo, no quedan claros cuáles son los parámetros para realizar una búsqueda.**
 Pueden visualizarse los gastos por mes, se diferencian los gastos con color rojo y en verde los depósitos, 
-puede realizarse un desglose del cargo donde la app se comunica con el usuario en inglés y español.
+puede realizarse un desglose del cargo donde **la app se comunica con el usuario en inglés y español.**
 
 Verbalizaciones obtenidas durante el testeo con usuarios:
 - *"Movimientos, me gusta la transición, puedo elegir el mes, el saldo disponible me gusta."
