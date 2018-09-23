@@ -38,6 +38,13 @@ iOS, así como el análisis llevado a cabo sobre la data proporcionada, se ident
   iOS**. Por lo que **se sugiere invertir en el desarrollo de un mínimo producto viable que incluya los apartados de 
   Movimientos y Ahorros para sistemas operativos Android.**
   
+* En cuanto a las visitas generadas por los diferentes apartados que ofrece la aplicación, dentro de la data únicamente
+  se registran los correspondientes a los apartados de **Gastos y Ahorros, en el primero se concentran un 4.30% de las sesiones 
+  realizadas, mientras que en Ahorros se registran un 0.2% de las mismas. De acuerdo al testeo realizado el apartado de 
+  Gastos resultó menos atractivo que el de Movimientos, tomando esto en cuenta y teniendo en mente el objetivo de incentivar
+  el ahorro por parte del banco, se sugieren cambios dentro de la visualización de datos dentro de cada uno de los apartados y 
+  el añadir elementos de gamificación dentro del apartado de Ahorro que contribuyan a su incentivación.** 
+  
 He identificado las **fases de activación y recomendación** como aquellas **prioritarias** para cumplir con los objetivos 
 propuestos por el negocio, es decir, **fidelizar a sus cuentahabientes y fomentar el ahorro por medio de la aplicación**.
 En el siguiente apartado elaboraré sobre las modificaciones necesarias a realizar dentro del flujo del app. 
@@ -235,9 +242,8 @@ exceso de información o íconos con una variedad de funcionalidades.
     *lado. Estaría súper bien.* 
 * *"Podría tener tener bonificaciones al usarla."* 
 
-## Próximos pasos para el banco con respecto al app 
-### Qué modificaciones se deberían hacer
-### Cuáles deberían ser los próximos desarrollos
+## Mejoras, modificaciones y próximos desarrollos sugeridos
+
 
 
 ## Prototipo de alta definición con cambios y desarrollos nuevos
