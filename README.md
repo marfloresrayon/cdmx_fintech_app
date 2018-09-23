@@ -46,13 +46,13 @@ identidad del banco al que pertenece la aplicación o de una experiencia distint
 largo de la aplicación. 
 
 Verbalizaciones obtenidas durante el testeo con usuarios:
-- "Me gusta que la landing sea muy sencilla, que sea muy fácil de detectar, los colores son muy de banco, 
+- *"Me gusta que la landing sea muy sencilla, que sea muy fácil de detectar, los colores son muy de banco, 
    van de acuerdo al banco."
 - "¿Es en esta parte o en la de arriba? Veo que tienes dos veces el mismo botón para hacer la operación, 
    y el de arriba me dirige abajo."
 - "Me gusta más que las cosas que son la función de la aplicación las vea apenas entre y eso no está. 
    Me invitas a descargarla pero no   me das el cómo hacerlo, controla tu dinero, pero algo que me diga de 
-   una vez qué es lo chingonsísimo de una aplicación y por qué la tengo que bajar." 
+   una vez qué es lo chingonsísimo de una aplicación y por qué la tengo que bajar."* 
 
 ### App Store  
 Dentro de la App Store nos encontramos con un eslogan distinto al usado dentro de la Landing Page, los colores y 
@@ -63,8 +63,8 @@ a 18+, ya que por el momento se encuentra en personas mayores de 9 años. Hasta 
 de la ya mostrada en la landing page, el onboarding no queda claro para los usuarios.
 
 Verbalizaciones obtenidas durante el testeo con usuarios:
-- "Me estás dirigiendo a la app de la aplicación. Uso un teléfono de gama media, Android."
-- "¿Si no tengo cuenta no importa? ¿Es exclusiva para Iphone?"
+- *"Me estás dirigiendo a la app de la aplicación. Uso un teléfono de gama media, Android."
+- "¿Si no tengo cuenta no importa? ¿Es exclusiva para Iphone?"*
 
 ### Sign Up
 Dentro del sign up, de acuerdo al testeo realizado con usuarios, es necesario mejorar la visibilidad del estado 
@@ -73,7 +73,7 @@ sobre lo que debe hacer en cada etapa del sign up mejorando los formularios y la
 así como la acción necesitada en uno de los pasos. 
 
 Verbalizaciones obtenidas durante el testeo con usuarios:
-- "¿No hay un paso antes de hacer un registro? ¿O cómo sabe tu aplicación que soy un usuario del banco? 
+- *"¿No hay un paso antes de hacer un registro? ¿O cómo sabe tu aplicación que soy un usuario del banco? 
    Te piden cierto registro en el banco para solo llegar e ingresar ciertos datos."
 - "Agregar foto, está bien pero nunca lo hago, no le veo sentido para qué el banco lo tiene, suficientes 
    datos personales tienen, no veo qué uso puedan darle."
@@ -96,16 +96,59 @@ Verbalizaciones obtenidas durante el testeo con usuarios:
 - "Me abre el carrete, no pide permiso para acceder a mi carrete ¿puedo elegir la que sea? Si no lo lleno 
    ahorita espero que más adelante pueda hacerlo de manera fácil, vamos a hacerlo después, ah no puedo, 
    porque en tu flujo de navegación no puedo arrepentirme."
-- "¿Llené mi nombre? ¿De dónde lo saca? ¿De sus datos de cuenta?"
+- "¿Llené mi nombre? ¿De dónde lo saca? ¿De sus datos de cuenta?"*
 
 ### Patalla de inicio. HOME
-Muestra un mensaje de bienvenida con el nombre del usuario, la tarjeta del mismo que ocupa 3/4 de la pantalla, 
-una campana que anuncia las notificaciones de la app, el saldo disponible sin especificar la moneda o desglose 
-del mismo. En la parte inferior se muestra un botón con tres puntos que da acceso al menú con los distintos apartados
-de la aplicación, en la navbar se encuentra un menú hamburguesa que incluye la foto del usuario, si la ha 
-agregado, además de su nombre, la fecha y hora de su última conexión. 
+Muestra un mensaje de bienvenida con el nombre del usuario, una imagen de la tarjeta del mismo ocupa 3/4 
+de la pantalla, una campana en la esquina superior derecha anuncia las notificaciones de la app, el saldo 
+disponible se encuentra abajo de la tarjeta sin especificar la moneda o un desglose del mismo. 
+En la parte inferior se muestra un botón con tres puntos que da acceso al menú con los distintos apartados
+de la aplicación, mismos que no conoce el usuario, en la navbar se encuentra un menú hamburguesa que 
+incluye la foto del usuario, si la ha agregado, además de su nombre, la fecha y hora de su última conexión. 
+Hasta este punto no se ha ofrecido un onboarding para el usuario.
 
 Verbalizaciones obtenidas durante el testeo con usuarios:
+- *"Estaría bien un ícono donde pudieras regresar a la pantalla principal, porque con el atrás llega 
+   un momento en el que te sales de la aplicación."
+- "Los tres puntos no me dicen realmente qué son, no me agradó. En vez de ser unos puntos, algo que de
+   a entender que te lleva o te regresa a tu menú."
+- "¿En el menú no tienes nada verdad? El menú está vacío, sólo puedo ver mi cuenta. Pensé encontrar editar 
+   mi perfil, notificaciones, ayuda en línea, teléfono de la aplicación por si hay algo que no esté viendo 
+   aquí y me pueda comunicar con mi banco, no tenga que ir a buscar en internet el número de mi banco, o 
+   algo así como preguntas frecuentes."
+- "Pensé que el botón (de tres puntos) era para arrastrarlo."
+- "Monto total en la parte de inicio, a lo mejor cuenta con la parte de ahorro, que aparte diga la 
+   cantidad real para gastar y la real total que se tiene."
+- "Menú hamburguesa no hay nada que me sea útil de aquí. La última conexión no me importa. Me gusta que me 
+   ponga la tarjeta, me hace claro que esta es mi tarjeta."*
+   
+### Movimientos
+Se muestra el saldo disponible para el usuario sin especificar la moneda, existe un buscador del cual no 
+puede hacerse uso dentro del prototipo, no quedan claros cuáles son los parámetros para realizar una búsqueda.
+Pueden visualizarse los gastos por mes, se diferencian los gastos con color rojo y en verde los depósitos, 
+puede realizarse un desglose del cargo donde la app se comunica con el usuario en inglés y español.
+
+Verbalizaciones obtenidas durante el testeo con usuarios:
+- *"Movimientos, me gusta la transición, puedo elegir el mes, el saldo disponible me gusta."
+- "Esto sí es muy importante, los movimientos como cuando uso tarjeta, no llevo un control de lo que gasto,
+   está padre ver en qué gastaste, de hecho hasta ahí te puedes dar cuenta en las tonterías que gastas tu dinero."
+- "Verificar si hay un cobro que no reconozcas para saber cuándo y en qué tienda se realizó. Esa parte me gusta." 
+- "Ponen el gasto como en rojo negativo, me causa un poco de ansiedad ¿Es tarjeta de débito? ¿es un saldo a favor 
+   no? Está bien la diferencia de color, pero no sé si sea la opción el rojo, diferencia de ganancia y pérdida."
+- "Movimientos ¿por qué está en medio (el botón de 3 puntos)? No sé por qué está en medio, no puedo regresar ¡ah!"*
+
+### Ahorros
+
+Verbalizaciones obtenidas durante el testeo con usuarios:
+- *""*
+
+### Gastos
+
+Verbalizaciones obtenidas durante el testeo con usuarios:
+- *""
+- "Si es solamente de budget no me da tiempo de llevarla, si estás tranquilo la llevas, pero entras en un rush 
+   de trabajo y olvidas usar la aplicación. Cualquier cosa que se maneje lo más solita posible y me diga qué hacer, 
+   más que tener que llevar todos los días los gastos."
 
 A continuación las herramientas metodológicas usadas para comprender las necesidades del negocio y los usuarios. 
 
