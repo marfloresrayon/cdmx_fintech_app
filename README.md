@@ -225,7 +225,10 @@ exceso de información o íconos con una variedad de funcionalidades.
     *lado. Estaría súper bien.* 
 * *"Podría tener tener bonificaciones al usarla."* 
 
-## Recomendaciones de próximos pasos para el banco con respecto al app 
+## Próximos pasos para el banco con respecto al app 
+
+![Gráfica dispositivos](img/graph.png)
+
 ### Qué modificaciones se deberían hacer
 ### Cuáles deberían ser los próximos desarrollos
 ### En qué se debería invertir el presupuesto de marketing
