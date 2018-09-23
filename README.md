@@ -25,37 +25,87 @@ iOS, así como el análisis llevado a cabo sobre la data proporcionada, se ident
 * Durante los 6 meses que la aplicación ha estado disponible en el mercado el porcentaje de conversión entre la 
 fase de adquisición (por medio de Facebook Ads) y la fase de activación (usuarios que han descargado la app y se 
 han registrado para hacer uso) se traduce en un 0.0040903%. Lo cual sugiere lo **poco recomendable** que sería 
-**duplicar el presupuesto destinado a generar anuncios de Facebook**. En cambio se sugiere segmentar los anuncios 
+**duplicar el presupuesto destinado a generar anuncios de Facebook**. En cambio **se sugiere segmentar los anuncios 
 de acuerdo al público que se intenta adquirir, especificando en los anuncios el sistema operativo con el cual opera
-la aplicación y las funcionalidades que ésta contiene. 
-* 
+la aplicación y las funcionalidades que ésta contiene**. 
 
-## Análisis heurístico de usabilidad 
+He identificado las **fases de activación y recomendación** como aquellas **prioritarias** para cumplir con los objetivos 
+propuestos por el negocio, es decir, **fidelizar a sus cuentahabientes y fomentar el ahorro por medio de la aplicación**.
 
-* Visibilidad del estado del sistema. Al descargar la aplicación dentro de la landing page no queda claro 
-  qué está sucediendo o cuál será el siguiente paso. Dentro del login no se muestra el estado de completitud 
-  del proceso.
-* Match entre el sistema y el mundo real. Los términos usados resultan confusos y repetitivos dentro de los 
-  apartados de gastos y movimientos. No se define la voz y tono de la marca, lo cual hace al producto poco 
-  distinguible y reconocible para los usuarios. 
-* Control y libertad. Dentro de las 3 funcionalidades principales no existen opciones para deshacer las 
-  acciones o salir del punto en el que el usuario se encuentra si así lo desea. 
-* Consistencia y estándares. Las interfaces son consistentes en cuanto a color, tipografía, forma y tamaño
-  de los CTA's, pero algunas acciones cambian para un mismo ícono o bien no se realizan (botón de atrás). 
-  El idioma no resulta consistente, fluctuando entre el uso de inglés y español. 
-* Prevención de errores. El sistema no previene los errores que pueda cometer el usuario, no ofrece copys 
-  claros y directivos para evitarlos antes de que sucedan.
-* Reconocer en lugar de recordar. Los elementos no llegan a ser reconocibles a simple vista por lo que, a 
-  momentos, el flujo se ve alentado dentro de los apartados de ahorros, movimientos y gastos. El logo y nombre 
-  del producto no resultan reconocibles y memorables para los usuarios.  
-* Flexibilidad y eficiencia en el uso. El sistema no ofrece herramientas avanzadas o atajos para acciones frecuentes. 
-  Se puede hacer uso del mismo sin importar el nivel de experiencia del usuario. 
-* Diseño estético y minimalista. El diseño es cohesivo, se mantiene a lo largo de las interfaces, sin embargo 
-  la información más importante no se encuentra destacada por medio de la jerarquización, alineación y tamaño 
-  de la misma, lo que llega a confundir al usuario. No existe contraste en copys durante el proceso de login. 
-* Reconocer y recuperarse de errores. En algunos momentos de la interacción dentro de los distintos apartados, 
-  no es posible recuperarse de los errores cometidos, no se indica la causa del error ni existe una solución sugerida. 
-* Ayuda y documentación. No existe documentación adicional sobre la aplicación. 
+## Análisis heurístico
+
+### Landing Page
+El anuncio de Facebook lleva al usuario a la Landing Page de la aplicación, misma que contiene 2 CTA, el primero 
+"Descárgala ahora" lo lleva a un formulario de llenado con la instrucción "Déjanos tus datos y recibe el link de 
+descarga." Mismo que no se hace llegar al usuario, en cambio le redirecciona a una página de agradecimiento y
+posteriormente a la App Store donde el usuario podrá descargar la aplicación. 
+
+Hasta este punto no existe un onboarding claro para el usuario, no se le informa en qué consiste la aplicación
+y qué valor podría aportarle su uso. Sobre el branding, no se encuentran elementos diferenciadores de la 
+identidad del banco al que pertenece la aplicación o de una experiencia distintiva que se sostenga a lo 
+largo de la aplicación. 
+
+Verbalizaciones obtenidas durante el testeo con usuarios:
+- "Me gusta que la landing sea muy sencilla, que sea muy fácil de detectar, los colores son muy de banco, 
+   van de acuerdo al banco."
+- "¿Es en esta parte o en la de arriba? Veo que tienes dos veces el mismo botón para hacer la operación, 
+   y el de arriba me dirige abajo."
+- "Me gusta más que las cosas que son la función de la aplicación las vea apenas entre y eso no está. 
+   Me invitas a descargarla pero no   me das el cómo hacerlo, controla tu dinero, pero algo que me diga de 
+   una vez qué es lo chingonsísimo de una aplicación y por qué la tengo que bajar." 
+
+### App Store  
+Dentro de la App Store nos encontramos con un eslogan distinto al usado dentro de la Landing Page, los colores y 
+el logo de la aplicación son consistentes. Aunque es la séptima aplicación financiera, su rating es de 2.64 
+estrellas lo cual denota una falta de satisfacción con el producto, ya que este rating se basa en la calificación 
+generada por cada usuario, por lo que me parece prioritario mejorar este rating y cambiar la edad de uso sugerida
+a 18+, ya que por el momento se encuentra en personas mayores de 9 años. Hasta este punto no ofrece más información
+de la ya mostrada en la landing page, el onboarding no queda claro para los usuarios.
+
+Verbalizaciones obtenidas durante el testeo con usuarios:
+- "Me estás dirigiendo a la app de la aplicación. Uso un teléfono de gama media, Android."
+- "¿Si no tengo cuenta no importa? ¿Es exclusiva para Iphone?"
+
+### Sign Up
+Dentro del sign up, de acuerdo al testeo realizado con usuarios, es necesario mejorar la visibilidad del estado 
+del proceso, prevenir posibles errores, reconocer y recuperarse de errores, y ofrecer ayuda al usuario 
+sobre lo que debe hacer en cada etapa del sign up mejorando los formularios y las instrucciones de llenado, 
+así como la acción necesitada en uno de los pasos. 
+
+Verbalizaciones obtenidas durante el testeo con usuarios:
+- "¿No hay un paso antes de hacer un registro? ¿O cómo sabe tu aplicación que soy un usuario del banco? 
+   Te piden cierto registro en el banco para solo llegar e ingresar ciertos datos."
+- "Agregar foto, está bien pero nunca lo hago, no le veo sentido para qué el banco lo tiene, suficientes 
+   datos personales tienen, no veo qué uso puedan darle."
+- "Creo que podría ser más inseguro que la felicidad que tendría el poner mi foto allí."
+- "Me llegó un código en mi teléfono y debería salir aquí mismo. No había visto la letrita."
+- "¿Número de cuenta es mi CLABE o qué? ¿Cuál cuenta, la de la aplicación o de mi cuenta bancaria? 
+   ¿Cómo sabe qué banco es?" 
+- "¿Me llegó un mail de confirmación? Me gustaría, es mi cuenta bancaria, no tengo problema en meter 
+   más mis datos, pero es la primera vez que uso algo así."
+- "A lo mejor otra tipografía, se pierde un poco, yo soy muy ciega. No quiero poner mi foto, hacerlo más tarde.   
+   Eso de la huella me gusta, yo que soy muy paranoica, el que puedas poner tu huella para acceder a tu cuenta 
+   me da más seguridad y confianza. Yo sé que no todos los teléfonos lo tienen, pero que tengan para identificarla 
+   es un punto extra, da mucha confianza."
+- "No sé cómo se llama esta app."
+- "¿Por qué otra vez me dice que acepto los términos, son distintos cada vez? No me queda claro." 
+- "No me parece ese avatar porque tiene género, o que lo tuviera de acuerdo a mi género, no me lo pide entonces 
+   no sé cómo va a saber." 
+- "Me gustaría que todos los campos tuvieran datos dummie para saber cómo tiene que ser. Quisiera una ayuda 
+   que me dijera cómo tiene que ser la contraseña, que me diga de qué tiene que estar hecha esa contraseña." 
+- "Me abre el carrete, no pide permiso para acceder a mi carrete ¿puedo elegir la que sea? Si no lo lleno 
+   ahorita espero que más adelante pueda hacerlo de manera fácil, vamos a hacerlo después, ah no puedo, 
+   porque en tu flujo de navegación no puedo arrepentirme."
+- "¿Llené mi nombre? ¿De dónde lo saca? ¿De sus datos de cuenta?"
+
+### Patalla de inicio. HOME
+Muestra un mensaje de bienvenida con el nombre del usuario, la tarjeta del mismo que ocupa 3/4 de la pantalla, 
+una campana que anuncia las notificaciones de la app, el saldo disponible sin especificar la moneda o desglose 
+del mismo. En la parte inferior se muestra un botón con tres puntos que da acceso al menú con los distintos apartados
+de la aplicación, en la navbar se encuentra un menú hamburguesa que incluye la foto del usuario, si la ha 
+agregado, además de su nombre, la fecha y hora de su última conexión. 
+
+Verbalizaciones obtenidas durante el testeo con usuarios:
 
 A continuación las herramientas metodológicas usadas para comprender las necesidades del negocio y los usuarios. 
 
