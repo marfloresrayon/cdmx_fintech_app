@@ -7,7 +7,7 @@ de su nueva aplicación móvil, donde sus usuari@s pueden visualizar sus gastos 
 a cabo metas de ahorro.  Es necesario llevar a cabo un diagnóstico del estado actual de la aplicación, 
 evaluar su desempeño y proponer los cambios necesarios para optimizar el producto. 
 
-## Problemas encontrados
+## Problemas encontrados y próximos pasos para el banco con respecto al app
 
 El proceso de rediseño de esta aplicación implica el análisis del trabajo previo, el cual inevitablemente
 tendrá áreas de mejora a ser resueltas con una nueva propuesta e iteración continua de la mano del cliente
@@ -23,14 +23,24 @@ iOS, así como el análisis llevado a cabo sobre la data proporcionada, se ident
 ![Funnel de conversión](img/funnel.png)
 
 * Durante los 6 meses que la aplicación ha estado disponible en el mercado el porcentaje de conversión entre la 
-fase de adquisición (por medio de Facebook Ads) y la fase de activación (usuarios que han descargado la app y se 
-han registrado para hacer uso) se traduce en un 0.0040903%. Lo cual sugiere lo **poco recomendable** que sería 
-**duplicar el presupuesto destinado a generar anuncios de Facebook**. En cambio **se sugiere segmentar los anuncios 
-de acuerdo al público que se intenta adquirir, especificando en los anuncios el sistema operativo con el cual opera
-la aplicación y las funcionalidades que ésta contiene**. 
+  fase de adquisición (por medio de Facebook Ads) y la fase de activación (usuarios que han descargado la app y se 
+  han registrado para hacer uso) se traduce en un 0.0040903%. Lo cual sugiere lo **poco recomendable** que sería 
+  **duplicar el presupuesto destinado a generar anuncios de Facebook**. En cambio **se sugiere invertir el presupuesto 
+  de marketing en la segmentación de los anuncios de acuerdo al público que se intenta adquirir, especificando 
+  en los anuncios el sistema operativo con el cual opera la aplicación y las funcionalidades que ésta contiene, 
+  desarrollando un onboarding que favorezca el aumento porcentual de cada etapa de conversión, sin duplicar el 
+  presupuesto destinado a anuncios de Facebook**. 
 
+![Gráfica dispositivos](img/graph.png)
+
+* Por otra parte, de acuerdo a la gráfica proporcionada con la data de uso del app durante los últimos 6 meses, 
+  encontramos que el **acceso a la misma desde dispositivos Android, excede en un 1,224% al realizado desde dispositivos
+  iOS**. Por lo que **se sugiere invertir en el desarrollo de un mínimo producto viable que incluya los apartados de 
+  Movimientos y Ahorros para sistemas operativos Android.**
+  
 He identificado las **fases de activación y recomendación** como aquellas **prioritarias** para cumplir con los objetivos 
 propuestos por el negocio, es decir, **fidelizar a sus cuentahabientes y fomentar el ahorro por medio de la aplicación**.
+En el siguiente apartado elaboraré sobre las modificaciones necesarias a realizar dentro del flujo del app. 
 
 ## Análisis heurístico
 
@@ -226,12 +236,9 @@ exceso de información o íconos con una variedad de funcionalidades.
 * *"Podría tener tener bonificaciones al usarla."* 
 
 ## Próximos pasos para el banco con respecto al app 
-
-![Gráfica dispositivos](img/graph.png)
-
 ### Qué modificaciones se deberían hacer
 ### Cuáles deberían ser los próximos desarrollos
-### En qué se debería invertir el presupuesto de marketing
+
 
 ## Prototipo de alta definición con cambios y desarrollos nuevos
 ### Link de Marvel Hand-offs para compartir los diseños con desarrolladores
