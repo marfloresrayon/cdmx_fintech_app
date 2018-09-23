@@ -20,7 +20,7 @@ objetivos del cliente.
 Después del análisis heurístico realizado a la landing page y al flujo actual de la aplicación desarrollada en 
 iOS, así como el análisis llevado a cabo sobre la data proporcionada, se identifican los **siguientes problemas**: 
 
-[Funnel de conversión](img/funnel.png)
+![Funnel de conversión](img/funnel.png)
 
 * Durante los 6 meses que la aplicación ha estado disponible en el mercado el porcentaje de conversión entre la 
 fase de adquisición (por medio de Facebook Ads) y la fase de activación (usuarios que han descargado la app y se 
