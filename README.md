@@ -245,18 +245,17 @@ exceso de información o íconos con una variedad de funcionalidades.
 ## Mejoras, modificaciones y próximos desarrollos sugeridos
 
 
-
 ## Prototipo de alta definición con cambios y desarrollos nuevos
+
 ### Link de Marvel Hand-offs para compartir los diseños con desarrolladores
 
 ## Video de Loom de máximo 5 minutos
 Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás agregar los documentos complementarios que sustenten tu proceso.
 
 ### Anexos
+[Proceso de diseño de experiencia de usuario](https://drive.google.com/drive/folders/1KwSEE7gX66vUO-xbL1x21Yq-PCLvz2jV?usp=sharing)
 
 **Hacker edition**
-* Lista cuáles fueron tus aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión en un documento adicional (en el formato que prefieras).
 * Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte del journey del uso del producto. Si crees que un chatbot añadiría valor, prototípalo usando Botsociety.
 * Escribe un post en Medium contando tu proceso de investigación.
