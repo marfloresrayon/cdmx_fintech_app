@@ -285,12 +285,5 @@ en el link del apartado Anexos).
 ### Anexos
 [Proceso de diseño de experiencia de usuario](https://drive.google.com/drive/folders/1KwSEE7gX66vUO-xbL1x21Yq-PCLvz2jV?usp=sharing)
 
-**Hacker edition**
-* Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte del journey del uso del producto. Si crees que un chatbot añadiría valor, prototípalo usando Botsociety.
-* Escribe un post en Medium contando tu proceso de investigación.
 
-### Link de Marvel Hand-offs para compartir los diseños con desarrolladores
-
-## Video de Loom de máximo 5 minutos
-Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta.
 
