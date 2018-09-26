@@ -260,22 +260,25 @@ exceso de información o íconos con una variedad de funcionalidades.
   de lado el aspecto corporativo del mismo. 
   
 Para su rediseño realicé un testeo A/B con copys, llamados a la acción y fotografías distintas, esta fue 
-la landing page resultante con las mejoras señaladas durante el testeo. Los diseños y el mapa de calor resultante del 
-testeo pueden ser encontrados en el link del apartado Anexos. 
-
-![Mapa de calor. Versión B](img/heatB.png) 
+la landing page resultante con las mejoras señaladas durante el testeo (los diseños testeados pueden ser encontrados 
+en el link del apartado Anexos).
 
 [Landing page (Versión B)](http://tusfinanzasapp.pagedemo.co/)
 
+**Mapa de calor**
+![Mapa de calor. Versión B](img/heatB.png) 
+
+### Onboarding
+
+
+
+### Sign up y Login
+
 ## Próximos desarrollos sugeridos
 
-## Prototipo de alta definición con cambios y desarrollos nuevos
+### Chatbot
 
-### Link de Marvel Hand-offs para compartir los diseños con desarrolladores
-
-## Video de Loom de máximo 5 minutos
-Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta.
-
+[Bebot](https://app.botsociety.io/s/5bab096b0c91e051a5feb704?p=3d8cb42981bf768fb2dcff488a93b55985b44faf)
 
 ### Anexos
 [Proceso de diseño de experiencia de usuario](https://drive.google.com/drive/folders/1KwSEE7gX66vUO-xbL1x21Yq-PCLvz2jV?usp=sharing)
@@ -283,3 +286,9 @@ Explicar los puntos indicados en el README.md y hacer un demo de la solución pr
 **Hacker edition**
 * Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte del journey del uso del producto. Si crees que un chatbot añadiría valor, prototípalo usando Botsociety.
 * Escribe un post en Medium contando tu proceso de investigación.
+
+### Link de Marvel Hand-offs para compartir los diseños con desarrolladores
+
+## Video de Loom de máximo 5 minutos
+Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta.
+
