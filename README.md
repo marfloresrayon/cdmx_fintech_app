@@ -242,8 +242,32 @@ exceso de información o íconos con una variedad de funcionalidades.
     *lado. Estaría súper bien.* 
 * *"Podría tener tener bonificaciones al usarla."* 
 
-## Mejoras, modificaciones y próximos desarrollos sugeridos
+## Mejoras y modificaciones 
 
+### Landing Page 
+Áreas abordadas durante el rediseño: 
+* **Onboarding.** Informar al usuario sobre las funcionalidades con las que cuenta la aplicación, se le introduce 
+  a *Bebot* quien será parte de su experiencia **guiada, sencilla y rápida** para llevar a cabo metas de ahorro 
+  automatizadas. De la misma manera se numeran los pasos con los que podrá llevar a cabo las acciones deseadas para
+  integrar la sensación de rapidez y facilidad de uso de la aplicación. 
+* **Call to action.** Hacerles claros, visibles y posicionados de manera jerarquizada llevando al usuario a 
+  llevar la acción deseada. 
+* **Branding y UX Writing.** Desarrollar el tono y personalidad de la marca, mismo del que forma parte *Bebot* 
+  con una apariencia amigable y confiable. Las fotografías usadas mantienen la paleta de colores identificada 
+  anteriormente por los usuarios como referente a una institución bancaria, se usaron fotografías que representaran 
+  escenarios amigables y aspiracionales acordes a las funcionalidades de la aplicación. Se busca crear un 
+  *look and feel* amigable, identificable y juvenil, que genere cercanía entre el usuario y el banco, sin dejar 
+  de lado el aspecto corporativo del mismo. 
+  
+Para su rediseño realicé un testeo A/B con copys, llamados a la acción y fotografías distintas, esta fue 
+la landing page resultante con las mejoras señaladas durante el testeo. Los diseños y el mapa de calor resultante del 
+testeo pueden ser encontrados en el link del apartado Anexos. 
+
+![Mapa de calor. Versión B](img/heatB.png) 
+
+[Landing page (Versión B)](http://tusfinanzasapp.pagedemo.co/)
+
+## Próximos desarrollos sugeridos
 
 ## Prototipo de alta definición con cambios y desarrollos nuevos
 
