@@ -281,8 +281,13 @@ y de cercanía que se desea generar con el usuario.
 ![Onboarding Tus Finanzas](img/onboard.png)
 
 ### Sign up y Login
-Dentro del sign up, de acuerdo al testeo realizado con usuarios, es necesario **mejorar la visibilidad del estado 
-del proceso, prevenir posibles errores, reconocer y recuperarse de errores, y ofrecer ayuda al usuario** 
+
+[Primera versión Sign up](https://marvelapp.com/9g2e2ha)
+
+
+Se agregan copys y elementos que permitan al usuario mejorar la visibilidad del estado del proceso de registro, 
+así como indicaciones que permitan la prevención de posibles errores, así como iconografía distintiva que permita 
+al usuario reconocer y recuperarse de errores.  
 sobre lo que debe hacer en cada etapa del sign up mejorando los formularios y las instrucciones de llenado, 
 así como la acción necesitada en uno de los pasos. 
 
@@ -313,9 +318,6 @@ Verbalizaciones obtenidas durante el testeo con usuarios:
 - *"¿Llené mi nombre? ¿De dónde lo saca? ¿De sus datos de cuenta?"*
 
 Petición de datos personales a los usuarios, vinculada a la propuesta de valor, que justifique el registro y login. En este caso uno de los aspectos a resaltar es la seguridad y confianza que se le ofrece al usuario al ser una aplicación bancaria. 
-
-
-[Primera versión Sign up](https://marvelapp.com/9g2e2ha)
 
 [Versión final en proceso](https://marvelapp.com/452d2e3)
 
