@@ -280,6 +280,11 @@ y de cercanía que se desea generar con el usuario.
 
 ![Onboarding Tus Finanzas](img/onboard.png)
 
+Después del testeo realizado se adaptaron los copys para mantener la comunicación clara, amigable y
+colaborativa que forma parte de la interacción del usuario con la aplicación. 
+
+![Onboarding Tus Finanzas](img/newonboard.png)
+
 ### Sign up y Login
 
 [Primera versión Sign up](https://marvelapp.com/9g2e2ha)
