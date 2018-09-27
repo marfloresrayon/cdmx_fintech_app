@@ -289,47 +289,27 @@ colaborativa que forma parte de la interacción del usuario con la aplicación.
 
 [Primera versión Sign up](https://marvelapp.com/9g2e2ha)
 
+El llenado de los formularios de registro es una de las primeras interacciones que tendremos con el usuario, 
+por lo que se agregan copys cortos y escaneables, elementos que permitan al usuario mejorar la visibilidad del estado 
+del proceso de registro, indicaciones que permitan la prevención de posibles errores, así como iconografía distintiva 
+que le permita reconocer y recuperarse de errores. Se le informa de manera clara lo que debe hacer en cada etapa del sign up 
+mejorando las labels usadas dentro de los formularios, así como las instrucciones de llenado que los acompañan.
 
-Se agregan copys y elementos que permitan al usuario mejorar la visibilidad del estado del proceso de registro, 
-así como indicaciones que permitan la prevención de posibles errores, así como iconografía distintiva que permita 
-al usuario reconocer y recuperarse de errores.  
-sobre lo que debe hacer en cada etapa del sign up mejorando los formularios y las instrucciones de llenado, 
-así como la acción necesitada en uno de los pasos. 
+Después del testeo realizado se ajustó la iconografía para que fuera consistente con el branding de la aplicación, 
+se mejoró el contraste y tamaño de los labels, se introdujo a Bebot dentro del flujo ideal y el flujo de error con 
+expresiones que sean identificables para el usuario durante su interacción.  
 
-Verbalizaciones obtenidas durante el testeo con usuarios:
-- *"¿No hay un paso antes de hacer un registro? ¿O cómo sabe tu aplicación que soy un usuario del banco?* 
-     *Te piden cierto registro en el banco para solo llegar e ingresar ciertos datos."*
-- *"Agregar foto, está bien pero nunca lo hago, no le veo sentido para qué el banco lo tiene, suficientes* 
-   *datos personales tienen, no veo qué uso puedan darle."*
-- *"Creo que podría ser más inseguro que la felicidad que tendría el poner mi foto allí."*
-- *"Me llegó un código en mi teléfono y debería salir aquí mismo. No había visto la letrita."*
-- *"¿Número de cuenta es mi CLABE o qué? ¿Cuál cuenta, la de la aplicación o de mi cuenta bancaria?* 
-   *¿Cómo sabe qué banco es?"* 
-- *"¿Me llegó un mail de confirmación? Me gustaría, es mi cuenta bancaria, no tengo problema en meter* 
-    *más mis datos, pero es la primera vez que uso algo así."*
-- *"A lo mejor otra tipografía, se pierde un poco, yo soy muy ciega. No quiero poner mi foto, hacerlo más tarde.*
-   *Eso de la huella me gusta, yo que soy muy paranoica, el que puedas poner tu huella para acceder a tu cuenta* 
-   *me da más seguridad y confianza. Yo sé que no todos los teléfonos lo tienen, pero que tengan para identificarla* 
-   *es un punto extra, da mucha confianza."*
-- *"No sé cómo se llama esta app."*
-- *"¿Por qué otra vez me dice que acepto los términos, son distintos cada vez? No me queda claro."* 
-- *"No me parece ese avatar porque tiene género, o que lo tuviera de acuerdo a mi género, no me lo pide entonces*
-   *no sé cómo va a saber."* 
-- *"Me gustaría que todos los campos tuvieran datos dummie para saber cómo tiene que ser. Quisiera una ayuda* 
-   *que me dijera cómo tiene que ser la contraseña, que me diga de qué tiene que estar hecha esa contraseña."* 
-- *"Me abre el carrete, no pide permiso para acceder a mi carrete ¿puedo elegir la que sea? Si no lo lleno* 
-   *ahorita espero que más adelante pueda hacerlo de manera fácil, vamos a hacerlo después, ah no puedo,* 
-   *porque en tu flujo de navegación no puedo arrepentirme."*
-- *"¿Llené mi nombre? ¿De dónde lo saca? ¿De sus datos de cuenta?"*
+[Flujo ideal](https://marvelapp.com/452d2e3)
 
-Petición de datos personales a los usuarios, vinculada a la propuesta de valor, que justifique el registro y login. En este caso uno de los aspectos a resaltar es la seguridad y confianza que se le ofrece al usuario al ser una aplicación bancaria. 
-
-[Versión final en proceso](https://marvelapp.com/452d2e3)
+[Flujo de error](https://marvelapp.com/4j7165a)
 
 ## Próximos desarrollos sugeridos
 
-### Chatbot
+### Ahorros-gamificación
 
+### Chatbot
+Incorporación de un chatbot por medio del cual el usuario pueda conocer más sobre los beneficios de las funcionalidades 
+de la aplicación y 
 [Bebot](https://app.botsociety.io/s/5bab096b0c91e051a5feb704?p=3d8cb42981bf768fb2dcff488a93b55985b44faf)
 
 ### Anexos
