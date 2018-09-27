@@ -278,7 +278,7 @@ Se integra como un paso anterior al Sign up de manera que no quite excesivo tiem
 explicarle el valor agregado de la aplicación, por lo que se hace uso de imágenes que continúan con el tono amigable 
 y de cercanía que se desea generar con el usuario. 
 
-[Onboarding integrado a Sign Up](https://marvelapp.com/ehf5i8j)
+![Onboarding Tus Finanzas](img/onboard.png)
 
 ### Sign up y Login
 Dentro del sign up, de acuerdo al testeo realizado con usuarios, es necesario **mejorar la visibilidad del estado 
