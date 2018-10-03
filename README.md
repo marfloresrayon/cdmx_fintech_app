@@ -330,6 +330,6 @@ nuestro usuario pueda resolver sus dudas y encuentre asistencia dentro de la apl
 [Proceso de diseño de experiencia de usuario](https://drive.google.com/drive/folders/1KwSEE7gX66vUO-xbL1x21Yq-PCLvz2jV?usp=sharing)
 
 ## Video de Loom 
-Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta.
+Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta (agregar microinteracciones .gif a las pantallas mostradas)
 
 [Presentación](https://docs.google.com/presentation/d/1ZdPmEEid6yFXFPp0Q3o7GoDThhn6S_2Jig1_ovyJQMU/edit?usp=sharing)
