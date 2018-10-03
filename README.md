@@ -332,4 +332,4 @@ nuestro usuario pueda resolver sus dudas y encuentre asistencia dentro de la apl
 ## Video de Loom 
 Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta.
 
-
+[Presentación](https://docs.google.com/presentation/d/1ZdPmEEid6yFXFPp0Q3o7GoDThhn6S_2Jig1_ovyJQMU/edit?usp=sharing)
