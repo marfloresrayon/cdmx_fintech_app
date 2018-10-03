@@ -283,7 +283,7 @@ y de cercanía que se desea generar con el usuario.
 Después del testeo realizado se adaptaron los copys para mantener la comunicación clara, amigable y
 colaborativa que forma parte de la interacción del usuario con la aplicación. 
 
-![Onboarding Tus Finanzas](img/newonboard.png)
+![Onboarding Tus Finanzas](img/nnewonboard.png)
 
 ### Sign up y Login
 
@@ -303,17 +303,33 @@ expresiones que sean identificables para el usuario durante su interacción.
 
 [Flujo de error](https://marvelapp.com/4j7165a)
 
-## Próximos desarrollos sugeridos
+## Próximos desarrollos sugeridos (en proceso)
 
-### Ahorros-gamificación
+* Incorporar a Bebot dentro del flujo de metas de ahorro. 
+* Visualizar metas de ahorro con pie charts o barras de progreso con cantidad de dinero meta y cantidad alcanzada. 
+* Crear sistema de beneficios por meta alcanzada, bonificaciones del 1% de la meta, acceso a eventos exclusivos, 
+  puntos para compra en establecimientos. 
+* Diseñar pantalla de meta alcanzada y beneficios obtenidos. 
+* Cambiar copy de botón Crear cuenta. 
+* Eliminar comunicación con emojis, incorporar iconografía propia de la marca. 
+* Mejorar formulario de creación de meta. Agregar fecha de inicio y fin del ahorro. 
+* Crear acceso a la cantidad ahorrada en caso de desear cancelar la meta. 
+* Especificar moneda del monto a ahorrar. 
+* Agregar opción para editar datos en caso de error o cambio de parte del usuario. 
+* Crear opción de cancelación de meta o suspensión momentánea. 
 
 ### Chatbot
-Incorporación de un chatbot por medio del cual el usuario pueda conocer más sobre los beneficios de las funcionalidades 
-de la aplicación y 
-[Bebot](https://app.botsociety.io/s/5bab096b0c91e051a5feb704?p=3d8cb42981bf768fb2dcff488a93b55985b44faf)
+Como parte del rediseño de la aplicación se propone la creación de un chatbot mediante el cual el usuario pueda interactuar
+con Bebot, de manera informativa para conocer más sobre los beneficios de completar metas de ahorro en la aplicación, sobre 
+su uso y los posibles productos bancarios en los que el usuario podría estar interesado. Se busca que a través del chatbot
+nuestro usuario pueda resolver sus dudas y encuentre asistencia dentro de la aplicación. 
+
+[Chatbot. Bebot](https://app.botsociety.io/s/5bab096b0c91e051a5feb704?p=3d8cb42981bf768fb2dcff488a93b55985b44faf)
 
 ### Anexos
 [Proceso de diseño de experiencia de usuario](https://drive.google.com/drive/folders/1KwSEE7gX66vUO-xbL1x21Yq-PCLvz2jV?usp=sharing)
 
+## Video de Loom 
+Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta.
 
 
