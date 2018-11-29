@@ -1,13 +1,20 @@
-# Rediseño de aplicación bancaria
+# Bebot. Rediseño de aplicación bancaria
+
+Proyecto de rediseño de aplicación móvil, donde los usuarios del banco pueden visualizar sus gastos mensuales 
+y llevar a cabo metas de ahorro.
+
+![Onboarding Tus Finanzas](img/nnewonboard.png)
+
+## Desarrollado para
+
+[Laboratoria](https://www.laboratoria.la/)
 
 ## Objetivos iniciales del proyecto
 
 El banco más importante del país me ha encomendado, como UX designer, el proyecto de rediseño 
 de su nueva aplicación móvil, donde sus usuarios pueden visualizar sus gastos mensuales y llevar
 a cabo metas de ahorro.  Es necesario llevar a cabo un diagnóstico del estado actual de la aplicación, 
-evaluar su desempeño y proponer los cambios necesarios para optimizar el producto. 
-
-![Onboarding Tus Finanzas](img/nnewonboard.png)
+evaluar su desempeño y proponer los cambios necesarios para optimizar el producto.
 
 ## Problemas encontrados y próximos pasos para el banco con respecto al app
 
