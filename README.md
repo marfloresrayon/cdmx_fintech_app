@@ -3,9 +3,11 @@
 ## Objetivos iniciales del proyecto
 
 El banco más importante del país me ha encomendado, como UX designer, el proyecto de rediseño 
-de su nueva aplicación móvil, donde sus usuari@s pueden visualizar sus gastos mensuales y llevar
+de su nueva aplicación móvil, donde sus usuarios pueden visualizar sus gastos mensuales y llevar
 a cabo metas de ahorro.  Es necesario llevar a cabo un diagnóstico del estado actual de la aplicación, 
 evaluar su desempeño y proponer los cambios necesarios para optimizar el producto. 
+
+![Onboarding Tus Finanzas](img/nnewonboard.png)
 
 ## Problemas encontrados y próximos pasos para el banco con respecto al app
 
