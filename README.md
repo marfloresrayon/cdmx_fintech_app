@@ -336,9 +336,6 @@ nuestro usuario pueda resolver sus dudas y encuentre asistencia dentro de la apl
 [Chatbot. Bebot](https://app.botsociety.io/s/5bab096b0c91e051a5feb704?p=3d8cb42981bf768fb2dcff488a93b55985b44faf)
 
 ### Anexos
+Diseño de Bebot elaborado por [José Polanco](https://dribbble.com/polanquette)
+
 [Proceso de diseño de experiencia de usuario](https://drive.google.com/drive/folders/1KwSEE7gX66vUO-xbL1x21Yq-PCLvz2jV?usp=sharing)
-
-## Video de Loom 
-Explicar los puntos indicados en el README.md y hacer un demo de la solución propuesta (agregar microinteracciones .gif a las pantallas mostradas)
-
-[Presentación](https://docs.google.com/presentation/d/1ZdPmEEid6yFXFPp0Q3o7GoDThhn6S_2Jig1_ovyJQMU/edit?usp=sharing)
